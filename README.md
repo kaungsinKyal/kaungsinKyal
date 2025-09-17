@@ -14,7 +14,7 @@
 
 ## 📫 Contact Me
 - 📧 Email: **kaungsinkyalmi6778@gmail.com**  
-- 📞 Phone: **+44-XXXXXXXXXX**  
+- 📞 Phone: **+44-464152492**  
 
 ## ⚡ Fun Fact
 - I’m calm, humble, and always eager to learn new things!  
