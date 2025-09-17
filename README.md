@@ -1,12 +1,20 @@
-- 👋 Hi, I’m Kaung Sin Kyal
-- 👀 I’m interested in C# .Net Web development.
-- 🌱 I’m currently learning C# and Javascript front-end frameworks.
-- 💞️ I’m looking to collaborate on C# web application projects.
-- 📫 How to reach me contact me at kaungsinkyalmi6778@gmail.com
-- 😄 Pronouns: ...
-- ⚡ Fun fact: Clam and humble.
+# 👋 Hi, I’m Kaung Sin Kyal  
 
-<!---
-kaungsinKyal/kaungsinKyal is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## 👀 About Me
+- 💻 I’m passionate about **C# and .NET Core Web Development**  
+- 🌱 Currently learning **C#**, **Entity Framework Core**, and **JavaScript front-end frameworks**
+- 🤝 Open to collaborating on **C# web application projects**
+- 
+## 👀 Interests
+- Web development with .NET Core  
+- Cybersecurity and penetration testing  
+- Learning new programming languages  
+- Exploring data structures and algorithms problems
+- Enjoy experimenting with scripts and automation tools  
+
+## 📫 Contact Me
+- 📧 Email: **kaungsinkyalmi6778@gmail.com**  
+- 📞 Phone: **+44-XXXXXXXXXX**  
+
+## ⚡ Fun Fact
+- I’m calm, humble, and always eager to learn new things!  
